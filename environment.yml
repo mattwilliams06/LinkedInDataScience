@@ -34,15 +34,21 @@ dependencies:
   - jupyterlab=2.0.1=py_0
   - jupyterlab_server=1.0.7=py_0
   - krb5=1.16.4=h1752a42_0
+  - libblas=3.8.0=16_openblas
+  - libcblas=3.8.0=16_openblas
   - libclang=9.0.1=default_hf57f61e_0
   - libcxx=9.0.1=1
   - libedit=3.1.20170329=hcfe32e1_1001
   - libffi=3.2.1=h6de7cb9_1006
+  - libgfortran=4.0.0=2
   - libiconv=1.15=h01d97ff_1005
+  - liblapack=3.8.0=16_openblas
   - libllvm9=9.0.1=ha1b3eb9_0
+  - libopenblas=0.3.9=h3d69b6c_0
   - libpng=1.6.37=h2573ce8_0
   - libpq=12.2=h554dc5a_0
   - libsodium=1.0.17=h01d97ff_0
+  - llvm-openmp=9.0.1=h28b9765_2
   - markupsafe=1.1.1=py38h0b31af3_0
   - mistune=0.8.4=py38h0b31af3_1000
   - nbconvert=5.6.1=py38_0
@@ -51,7 +57,9 @@ dependencies:
   - notebook=6.0.3=py38_0
   - nspr=4.20=h0a44026_1000
   - nss=3.47=hc0980d9_0
+  - numpy=1.18.1=py38hde6bac1_0
   - openssl=1.1.1d=h0b31af3_0
+  - pandas=1.0.2=py38h5fc983b_0
   - pandoc=2.9.2=0
   - pandocfilters=1.4.2=py_1
   - parso=0.6.2=py_0
@@ -69,6 +77,7 @@ dependencies:
   - python=3.8.2=hdc38147_4_cpython
   - python-dateutil=2.8.1=py_0
   - python_abi=3.8=1_cp38
+  - pytz=2019.3=py_0
   - pyzmq=19.0.0=py38h4bf09a9_0
   - qt=5.12.5=h514805e_3
   - qtconsole=4.7.1=py_0

@@ -143,5 +143,5 @@ dependencies:
   - pip:
     - pyqt5-sip==4.19.18
     - pyqtwebengine==5.12.1
-prefix: /Users/mattjwilliams/anaconda3/envs/pfds
+prefix: /Users/mattwilliams/anaconda3/envs/pfds
 
